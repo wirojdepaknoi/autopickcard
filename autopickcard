@@ -1,0 +1,4 @@
+if game.PlaceId == 8304191830 or game.PlaceId == 14229762361 then
+    local player = game:GetService("Players").LocalPlayer
+    player:Kick("Script is outdated, please contact Dustin for the new one.")
+end
